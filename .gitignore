@@ -13,5 +13,11 @@
 !/log/.keep
 !/tmp/.keep
 
+.exrc 
+logfile 
+pg_upgrade_internal.log 
+pg_upgrade_server.log 
+pg_upgrade_utility.log 
+
 # Ignore Byebug command history file.
 .byebug_history

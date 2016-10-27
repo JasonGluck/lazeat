@@ -1,4 +1,70 @@
+* [Phuket letzeat](#phuket-letzeat)
+	* [Controllers](#controllers)
+		* [All](#all)
+		* [HomeController](#homecontroller)
+		* [UsersController](#userscontroller)
+		* [SessionController](#sessioncontroller)
+		* [DishesController](#dishescontroller)
+		* [FavoritesController](#favoritescontroller)
+		* [QueriesController](#queriescontroller)
+	* [Domain Modeling](#domain-modeling)
+	* [Wireframe](#wireframe)
+		* [Page 2](#page-2)
+		* [Future Features?](#future-features)
+
 # Phuket letzeat
+
+## Controllers
+
+### All
+
+- Application(main)
+- Sessions
+- Users
+- Dishes
+- Queries
+- Searches 
+- Favorites
+
+**the flow**: HomeController Login => SessionsController (actual login) =>  QueriesController New
+
+### HomeController
+
+- index (welcome)
+
+### UsersController
+
+- new
+- create
+- show
+- edit
+- destroy (delete my account) 
+
+### SessionController
+
+- new
+- create
+- destroy
+
+### DishesController
+
+- index
+- new
+- create
+
+### FavoritesController
+
+- new
+- create
+- show
+- destroy
+
+### QueriesController
+
+- index
+- new
+- create
+- destroy
 
 ## Domain Modeling
 
