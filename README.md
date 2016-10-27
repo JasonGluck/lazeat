@@ -1,24 +1,7 @@
-# README
+## Purpose:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Flatiron School Project 1:  Practicing CRUD 
 
-Things you may want to cover:
 
-* Ruby version
+Work in Progress
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
